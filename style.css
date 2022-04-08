@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.buttonStyle{
+  background-color: #F7DC6F;
+  border-radius: 20px;
+}
+
+.change{
+  background-color: #00ff00;
+  border-radius: 20px;
+}
+
+.wrong{
+  background-color: #f1120b;
+  border-radius: 20px;
+}
+
+.ok{
+  background-color: #6e5c16;
+  border-radius: 80px;
+}
